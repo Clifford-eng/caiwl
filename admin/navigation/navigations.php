@@ -5,7 +5,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 
-<title>COMPUTER AIDED INSTRUCTION IN WORLD LITERATURE</title>
+<title>Tshwane University Of Technology Online Learning</title>
 
 <!-- Bootstrap core CSS -->
 <link href="<?php echo web_root; ?>css/bootstrap.min.css" rel="stylesheet">
@@ -51,7 +51,7 @@
     <span class="icon-bar"></span>
     <span class="icon-bar"></span>
   </button>
-  <a class="navbar-brand"  href="<?php echo web_root; ?>admin/index.php" >COMPUTER AIDED INSTRUCTION IN WORLD LITERATURE </a>
+  <a class="navbar-brand"  href="<?php echo web_root; ?>admin/index.php" >Tshwane University Of Technology Online Learning </a>
 </div>
 
   <ul class="nav navbar-top-links navbar-right" >
@@ -101,7 +101,7 @@
  </section> 
 
 <section id="page-footer"> 
-      <footer>  <p align="center">&copy; COMPUTER AIDED INSTRUCTION IN WORLD LITERATURE </p></footer>
+      <footer>  <p align="center">&copy; Tshwane University Of Technology Online Learning </p></footer>
 </section>
 <!-- Plugins -->
 
